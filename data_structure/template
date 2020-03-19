@@ -1,0 +1,19 @@
+//template
+
+#include <bits/stdc++.h>
+typedef long long ll;
+using namespace std;
+
+#define br cout<<"\n"
+#define max_val 1000000
+
+int main() {
+	ios_base::sync_with_stdio(false);
+	cin.tie(NULL);
+	ll n,t;
+	cin>>t;
+    while(t--){
+        
+    }
+
+}
